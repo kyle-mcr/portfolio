@@ -9,10 +9,10 @@
     "email": "kylemcreynolds92@gmail.com",
     "phone": "831-247-6678",
     "address":{
-      "street":"Glen Ridge Ave",
+      "street":"Glen Ridge Ave. Los Gatos",
       "city":"San Francisco Bay Area",
       "state":"California",
-      "zip": "95030"
+      "zip": ""
     },
     "website": "http://www.kyle-mcreynolds.com",
     "resumedownload":"https://drive.google.com/open?id=1y39DCK16RPTTmcXOjWyAHVuyhxDSrtOm",
@@ -26,6 +26,11 @@
         "name":"instagram",
         "url":"https://www.instagram.com/kmcreynoldz/",
         "className":"fa fa-instagram"
+      },
+      {
+        "name":"instagram",
+        "url":"mailto:kylemcreynolds92@gmail.com",
+        "className":"fa fa-envelope"
       },
       {
         "name":"github",
