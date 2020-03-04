@@ -34,10 +34,10 @@ class Contact extends Component {
          </div>
       
 
-            <aside className="four columns footer-widgets">
+            <aside className="contact_box">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Address and Phone Number</h4>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />

@@ -1010,8 +1010,8 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 #contact{
-   padding-bottom:180px;
+   padding-bottom:10%;
 }
-.widget .widget_contact{
-margin-left:100px;
+.contact_box{
+   text-align: center;
 }
