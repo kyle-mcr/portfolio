@@ -1012,3 +1012,6 @@ footer .social-links li:first-child { margin-left: 0; }
 #contact{
    padding-bottom:180px;
 }
+.widget .widget_contact{
+margin-left:100px;
+}
