@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react_portfolio/static/css/main.5facb584.chunk.css",
-    "main.js": "/react_portfolio/static/js/main.ed3a843d.chunk.js",
-    "main.js.map": "/react_portfolio/static/js/main.ed3a843d.chunk.js.map",
-    "runtime-main.js": "/react_portfolio/static/js/runtime-main.8bd1331f.js",
-    "runtime-main.js.map": "/react_portfolio/static/js/runtime-main.8bd1331f.js.map",
-    "static/js/2.637bbe41.chunk.js": "/react_portfolio/static/js/2.637bbe41.chunk.js",
-    "static/js/2.637bbe41.chunk.js.map": "/react_portfolio/static/js/2.637bbe41.chunk.js.map",
-    "index.html": "/react_portfolio/index.html",
-    "precache-manifest.56b72e0794cd34fc7a6a30790f6af2c6.js": "/react_portfolio/precache-manifest.56b72e0794cd34fc7a6a30790f6af2c6.js",
-    "service-worker.js": "/react_portfolio/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/react_portfolio/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.637bbe41.chunk.js.LICENSE.txt": "/react_portfolio/static/js/2.637bbe41.chunk.js.LICENSE.txt"
+    "main.css": "/kyle-mcr/portfolio/static/css/main.5facb584.chunk.css",
+    "main.js": "/kyle-mcr/portfolio/static/js/main.ad52d2c5.chunk.js",
+    "main.js.map": "/kyle-mcr/portfolio/static/js/main.ad52d2c5.chunk.js.map",
+    "runtime-main.js": "/kyle-mcr/portfolio/static/js/runtime-main.6224149f.js",
+    "runtime-main.js.map": "/kyle-mcr/portfolio/static/js/runtime-main.6224149f.js.map",
+    "static/js/2.637bbe41.chunk.js": "/kyle-mcr/portfolio/static/js/2.637bbe41.chunk.js",
+    "static/js/2.637bbe41.chunk.js.map": "/kyle-mcr/portfolio/static/js/2.637bbe41.chunk.js.map",
+    "index.html": "/kyle-mcr/portfolio/index.html",
+    "precache-manifest.8343b61ad6187e477dfcba8e7e0decb7.js": "/kyle-mcr/portfolio/precache-manifest.8343b61ad6187e477dfcba8e7e0decb7.js",
+    "service-worker.js": "/kyle-mcr/portfolio/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/kyle-mcr/portfolio/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.637bbe41.chunk.js.LICENSE.txt": "/kyle-mcr/portfolio/static/js/2.637bbe41.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bd1331f.js",
+    "static/js/runtime-main.6224149f.js",
     "static/js/2.637bbe41.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.ed3a843d.chunk.js"
+    "static/js/main.ad52d2c5.chunk.js"
   ]
 }
